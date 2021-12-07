@@ -1,0 +1,55 @@
+.container{
+    text-align: center;
+    margin-top: 25px;
+}
+
+h1{
+    
+    color: black;
+    padding: 10px;
+    font-size: 50px;
+    /* background-color: rgb(252, 0, 126); */
+}
+
+/* .calc{
+    align-content: center;
+    border: 2px solid red;
+    width: 200px;
+    height: 50px;
+    
+} */
+
+
+table{
+    margin: auto;
+    margin-top: 10px;
+}
+
+input{
+    font-size: 26px;
+    font-weight: bold;
+    background-color: peachpuff;
+    border: 3px solid;
+    border-radius: 10px;
+}
+
+button{
+    font-size: 37px;
+    width: 85px;
+    height: 52px;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.calculator{
+    border: 3px solid rgb(89, 0, 255);
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+body{
+  /* background-color: rgb(208, 173, 214);  */
+ background-image: url(Calculator/image);
+}
